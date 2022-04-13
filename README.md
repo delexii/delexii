@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=delexii&show_icons=true&theme=buefy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=delexii&show_icons=true&theme=buefy&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delexii&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delexii&theme=buefy&count_private=true)
